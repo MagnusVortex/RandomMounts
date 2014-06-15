@@ -1,0 +1,6 @@
+## Interface: 50400
+## Title: Ridez!
+## Notes: Mount Up
+Ridez.lua
+Ridez.xml
+Vendor.txt

@@ -1,0 +1,3 @@
+31858 -- Traveler's Tundra Mammoth (Alliance)
+31857 -- Traveler's Tundra Mammoth (Horde)
+62809 -- Grand Expedition Yak
