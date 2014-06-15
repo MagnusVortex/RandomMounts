@@ -12,7 +12,7 @@ Since this is my first Lua project, while I will always appreciate anyone
 spotting a bug in my code, what I am most intersted in is comments on my
 use and implentation of Lua. Comments like, "Don't use func1(), func2() is
 better," is far less helpful than, "func1() accesses global variables and
-is less efficeint than func2()." Also, "I refer you to the 'Lua Refence
+is less efficient than func2()." Also, "I refer you to the 'Lua Refence
 Manual'" is not helpful; "I refer you to Chapter 2.3 of the manual" is. Thank
 you in advance for any help you provide.
 
