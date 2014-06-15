@@ -4,7 +4,7 @@ This is a repository for a World of Warcraft Addon "Ridez"
 
 Note from creator:
 This project is meant to help me learn Lua. I am aware of other addons that
-perform similar funcionality (and probably do it better), but I wanted a
+perform similar functionality (and probably do it better), but I wanted a
 project that was both interesting and small enough in scope that I would not
 be overwhelmed.
 
