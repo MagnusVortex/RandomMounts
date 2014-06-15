@@ -1,0 +1,9 @@
+31858 -- Traveler's Tundra Mammoth (Alliance)
+31857 -- Traveler's Tundra Mammoth (Horde)
+62809 -- Grand Expedition Yak
+55531 -- Mechano-Hog (Horde only)
+32286 -- Mekgineer's Chopper (Alliance only)
+31858 -- Grand Ice Mammoth (Alliance)
+31857 -- Grand Ice Mammoth (Horde)
+31862 -- Grand Black War Mammoth (Alliance)
+31861 -- Grand Black War Mammoth (Horde)
