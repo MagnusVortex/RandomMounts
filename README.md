@@ -20,7 +20,7 @@ you in advance for any help you provide.
 
 About the project:
 ============
-The intention is to be a very simple addon that will overide the default mount
+The intention is to be a simple addon that will overide the default mount
 command "CallCompanion("MOUNT", x)" with a randomly generated mount.
 
 Ridez will evaluate if flying mounts are authorized, if the player is swimming,
